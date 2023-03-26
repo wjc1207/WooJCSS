@@ -1,2 +1,2 @@
 # WooJCSS
-WooJCSS.css
+WooJCSS is a CSS library designed by wjc.
